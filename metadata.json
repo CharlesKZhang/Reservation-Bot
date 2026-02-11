@@ -1,0 +1,5 @@
+{
+  "name": "Reservation Agent",
+  "description": "A React web application acting as a reservation agent, using Gemini API with function calling to check and book restaurant tables. Powered by Tailwind CSS for a sleek UI.",
+  "requestFramePermissions": []
+}
